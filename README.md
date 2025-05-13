@@ -112,8 +112,9 @@ header {
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-07 111318.png>)
-![alt text](<Screenshot 2025-05-07 111339.png>)
+![image](https://github.com/user-attachments/assets/9ec92a44-f491-40ad-9dfb-9a45c4465784)
+
+![image](https://github.com/user-attachments/assets/4fda0024-6703-4c22-b4a3-c60a0cb44f93)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
